@@ -1,0 +1,28 @@
+-- Project Development --
+
+To do next
+
+1. validating the the input for new_store.
+ new_store will be done by then.
+
+2. completing the new_product, and validating inputs for it.
+new_product will be done by then.
+
+3. completing the add_store.php. add store will be done by then.
+
+4. completing the add_product.php. Add product will be done by then.
+
+5. making the stores_product.php. The view will be done by then.
+
+6. Adding the sample data. Finalising the project, before submission.
+
+Adding the data into the database through injectuion script and also specifiying the characterristcs for the update of data throuhg the php scripting and the and data format specifier in the
+dmain deirectory and then sending data as JSON format to the API usage dir.
+
+## use substr() method to remove "ERR" chars from the $inputTitle to be displayed as an Error Message - Validate.php
+
+## used array_map() in validate.php
+
+## global method in validate.php
+
+## array_merge() in add_store.php at line number 11 and add_product at line number 13
