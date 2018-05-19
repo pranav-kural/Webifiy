@@ -51,6 +51,6 @@ Webifiy was created as an academic project, the requirements for which were to p
    4. Interface
       1. Can utilize Bootstrap, Foundation, or your own custom UI CSS so your page is organized and styled
 
-####Project link: http://gc200333253.computerstudi.es/webifiy
+#### Project link: http://gc200333253.computerstudi.es/webifiy
 
-## p-k
+## Made with 💕 by Pranav Kural
